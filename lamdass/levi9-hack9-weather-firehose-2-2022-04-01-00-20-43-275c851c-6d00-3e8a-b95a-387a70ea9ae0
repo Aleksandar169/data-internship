@@ -1,0 +1,2 @@
+name,time_nano,time_date,location_latitude,location_longitude,location_name,weather_temperature,weather_feelsLike,weather_pressure,weather_humidity,weather_dewPoint,weather_clouds,weather_windSpeed,weather_windDeg,weather_windGust
+"1658 - 8, Kyiv, Ukraine",1648771620000000000,2022-04-01 02:07:00,50.4682878,30.5729412,"8, Kyiv, Ukraine",7.07,7.07,986,89,5.38,100,0.89,4,2.24
