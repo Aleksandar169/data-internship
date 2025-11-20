@@ -1,0 +1,29 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+.env*/
+
+# Coverage & testing
+.coverage
+htmlcov/
+coverage.xml
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# PyCharm / IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
