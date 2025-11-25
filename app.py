@@ -3,11 +3,11 @@ import os
 
 import aws_cdk as cdk
 
-from lambda_image.lambda_image_stack import LambdaImageStack
+from lambda_image.lambda_image_stack import LambdaStack
 
 
 app = cdk.App()
-LambdaImageStack(app, "LambdaImageStack",
+LambdaStack(app, "LambdaImageStack",
     # If you don't specify 'env', this stack will be environment-agnostic.
     # Account/Region-dependent features and context lookups will not work,
     # but a single synthesized template can be deployed anywhere.
